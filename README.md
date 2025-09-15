@@ -1,4 +1,4 @@
-# NanoRecon 🔍
+# Automated Recon 🔍
 
 A lightweight, automated reconnaissance tool written in Python. It's designed for bug bounty hunters and penetration testers to quickly discover subdomains and map out a target's attack surface.
 
